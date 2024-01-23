@@ -10,3 +10,6 @@
 - [article <내게 실용적이었던 프로그래밍 공부 방법들>](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D) : 공부 방법론과 리소스를 소개하는 글. 책의 목차만 참고하고, 목차에 관한 내용은 구글링하여 찾는 방식으로 학습하는 방법, 챌린지 사이클(챌린지-지식습득-수행-피드백-휴식) 프레임워크 등 내용은 실용적이다
 
 - [article <9 key lessons learned on my path from Engineer to VP 🔑>](https://careercutler.substack.com/p/9-key-lessons-learned-on-my-path?utm_source=tldrwebdev) : 개발자로서 성과를 만들어 내기 위한 사고방식과 사례를 다룸
+
+## Documents
+- [article <Becoming a go-to person gets you promoted. Here's how to do it as a software engineer>](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) : 구글, 스퀘어 등 기업에서 개발자의 기준에 대한 자료를 포함. 이력서 작성 시 참고하면 좋을 것
